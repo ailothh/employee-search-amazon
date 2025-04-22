@@ -1,0 +1,21 @@
+# Node.js dependencies
+/node_modules
+/.next
+/out
+/build
+
+# Python dependencies
+*.pyc
+__pycache__/
+venv/
+
+# Logs
+*.log
+
+# Vercel-specific build files
+.vercel
+.vercel_build_output
+
+# OS files
+.DS_Store
+Thumbs.db
