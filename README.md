@@ -9,7 +9,7 @@
 I am in no way associated with this breach and all breached data has been removed from this public version and replaced with demo data. 
 
 Development on this project has been **formally discontinued** following a direct communication from **AWS Security**.
-A selection of this data — including that of VPs and principal engineers — was independently verified and still active as of **March 2025**. This mirrors real-world attacks like the **2020 Twitter hack**, where attackers exploited internal access through social engineering.
+A selection of this data — including that of VPs and principal engineers — was independently verified and still active as of **June 2025**. This mirrors real-world attacks like the **2020 Twitter hack**, where attackers exploited internal access through social engineering.
 
 As a result:
 
@@ -23,9 +23,10 @@ The current implementation allows only name-based lookups. A more advanced — a
 
 - **Department-based targeting** (e.g. Identity, SRE, or Security teams)  
 - **Role-based queries** (e.g. “Principal Engineer”, “Root Access Admin”)  
-- **Location-based filters** (e.g. “AWS Seattle HQ”)  
+- **Location-based filters** (e.g. “AWS Seattle HQ”)
+- **Linkedin profile integration**
 
-Such functionality would allow attackers to isolate **high-value targets** for spear phishing, vishing, or internal compromise.
+Such functionality would allow attackers to isolate **high-value targets** for spear phishing, vishing, or internal compromise. 
 
 
 ## Overview
